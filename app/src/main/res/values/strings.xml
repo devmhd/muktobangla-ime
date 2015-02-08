@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MuktoBangla Keyboard</string>
+    <string name="service_label">MuktoBangla Keyboard</string>
+    <string name="subtype_en_US">Bangla</string>
+</resources>

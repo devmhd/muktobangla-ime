@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="keyboard_1_style">
+        <item name="android:keyBackground">@drawable/key_back</item>
+        <item name="android:keyTextColor">#fff</item>
+        <item name="android:background">#121212</item>
+        <item name="android:keyPreviewLayout">@layout/preview</item>
+    </style>
+
+</resources>
